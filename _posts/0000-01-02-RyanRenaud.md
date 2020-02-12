@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Sample Text"
+"Input some sort of text here"
 Use the left arrow to go back!
-No I don't want to
+
